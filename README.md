@@ -1,6 +1,6 @@
 # maestro-demo
 
-Simple docker application for demonstrating Maestro
+Simple docker application for demonstrating Maestro. The application is written in Python. It uses the Flask framework and maintains a hit counter in Redis. While this demo uses Python, the concepts demonstrated here should be understandable even if you’re not familiar with the language.
 
 ## Getting started
 
